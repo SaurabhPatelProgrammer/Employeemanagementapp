@@ -7,3 +7,7 @@ body{
     background-color: rgb(24 24 27 / var(--tw-bg-opacity, 1)) /* #18181b */;
     color: white;
 }
+
+#tasklist::-webkit-scrollbar{
+display: none;
+}
